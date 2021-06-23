@@ -1,4 +1,4 @@
-//mysql editor
+//mysql EDITOR
 
 SELECT CASE
 	WHEN P IS NULL THEN CONCAT(N, ' Root')
