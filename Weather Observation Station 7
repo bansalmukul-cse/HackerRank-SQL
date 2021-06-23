@@ -1,4 +1,4 @@
-//mysql editorS
+//mysql editor
 
 ELECT DISTINCT city FROM   station 
 WHERE  city  LIKE '%A' 
