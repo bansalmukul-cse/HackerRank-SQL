@@ -1,3 +1,3 @@
-//mysql editor
+//MYSQL editor
 
 SELECT city,state from STATION;
