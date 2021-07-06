@@ -1,4 +1,4 @@
-//works perfectly in MYSQL editor
+//works perfectly in MYSQL EDITOR
 
 SELECT h.hacker_id, h.name, COUNT(c.challenge_id) AS challenge_counter
 FROM hackers h
