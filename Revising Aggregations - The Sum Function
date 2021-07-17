@@ -1,5 +1,5 @@
-//mysql
-//oracle
+//MYSQL editor
+//ORACLE
 
 SELECT SUM(Population)
 FROM City
