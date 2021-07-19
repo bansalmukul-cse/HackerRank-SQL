@@ -1,5 +1,5 @@
 //MYSQL EDItor
-// ORACLE
+//  WORKS WITH ORACLE
 
 select * from city;
 
