@@ -1,4 +1,5 @@
 /MYSQL
+// ORACLE
 
 select * from city;
 
