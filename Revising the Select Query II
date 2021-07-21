@@ -1,4 +1,4 @@
 //MYSQL editor
-//hackerank solution 
+//hackerRank solution 
 
 SELECT name FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 120000;
