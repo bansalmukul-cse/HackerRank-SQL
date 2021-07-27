@@ -1,4 +1,4 @@
-//MYSQL
+//MYSQL editor
 
 SELECT Country.Continent, FLOOR(AVG(City.Population))
 FROM Country, City 
