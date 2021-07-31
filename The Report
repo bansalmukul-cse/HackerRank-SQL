@@ -1,3 +1,4 @@
+//works best
 SELECT case WHEN grade<8 THEN 'NULL' 
 else stu.name end,gra.grade,stu.marks 
 FROM students stu,grades gra WHERE stu.marks BETWEEN gra.min_mark and gra.max_mark
