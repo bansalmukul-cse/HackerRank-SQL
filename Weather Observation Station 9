@@ -1,4 +1,4 @@
-//MYSQL editor
+//MYSQL EDITOR
 
 select distinct city from station 
 where city Not like 'A%' and city Not like 'E%' and city Not like 'I%' and
